@@ -1,4 +1,4 @@
-# git-tutorials
+# Git-tutorials
 Git Commands
 ============
 _A list of my commonly used Git commands_
