@@ -39,7 +39,7 @@ _A list of my commonly used Git commands_
 | `git merge [source branch] [target branch]` | Merge a branch into a target branch |
 | `git stash` | Stash changes in a dirty working directory |
 | `git stash clear` | Remove all stashed entries |
-| `git reset --soft HEAD~1` | Reset |
+| `git reset --soft HEAD~1` | Reset to previous head |
 
 ### Sharing & Updating Projects
 
