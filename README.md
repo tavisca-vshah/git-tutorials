@@ -1,5 +1,5 @@
 # Git-tutorials
-Git Commands Cheatsheet
+Git Commands Cheatsheet 
 ============
 _A list of my commonly used Git commands_
 
